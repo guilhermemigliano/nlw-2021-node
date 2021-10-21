@@ -1,4 +1,4 @@
-# <NLW>-2021-node
+# NLW-2021-node
 Projeto back-end em Node do NLW (Next Level Week) - 
 - [RocketSeat](https://www.rocketseat.com.br) 
   
@@ -23,3 +23,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] WebSocket
 - [x] Retornar últimas 3 mensagens enviadas
 - [x] Profile de usuário
+
+## Como rodar
+
+- Digitar no terminal o comando: npm run dev
+- O servidor iniciará no seguinte endereço: http://localhost:4000
