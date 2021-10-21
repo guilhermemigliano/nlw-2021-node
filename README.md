@@ -27,4 +27,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Como rodar
 
 - Digitar no terminal o comando: npm run dev
-- O servidor iniciará no seguinte endereço: http://localhost:4000
+- Digitar no terminal o comando: npx prisma migrate dev 
+- 
+O primeiro comando iniciará o servidor no seguinte endereço: http://localhost:4000
+O segundo comando é para o Prisma.io criar as tabelas no banco de dados.
+
+## Link para o Frond-End da aplicação
+
+- [Front-end ReactJS](https://github.com/guilhermemigliano/nlw-2021-ReactJS)
